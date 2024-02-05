@@ -11,7 +11,7 @@ img {
 /* Header CSS Start */
 
 .navbar-toggler:focus {
-  box-shadow: 0 0 0 0.25rem #20b15a6b;
+  box-shadow: 0 0 0 0.25rem #0606066b;
 }
 
 .navbar-toggler-icon {
@@ -27,7 +27,7 @@ img {
 
 .dropdown-item:active,
 .dropdown-item:hover {
-  background-color: #20b15a;
+  background-color: #f7faf8;
 }
 
 .dropdown-item {
@@ -92,7 +92,7 @@ header .navbar-expand-lg .navbar-nav {
 }
 
 header.fixed-top {
-  background-color: #d7f5dc;
+  background-color: #dde1dd;
 }
 /* Header CSS End */
 
@@ -293,7 +293,7 @@ header.fixed-top {
   padding: 40px;
   border-radius: 20px;
   box-shadow: 0 4px 4px 0 #00000040;
-  background-color: white;
+  background-color: #dde1dd;
   margin: 0 23.5px;
 }
 
@@ -412,7 +412,7 @@ header.fixed-top {
   font-size: 16px;
   font-weight: 400;
   line-height: 22px;
-  color: #8b8b8b;
+  color: black;
 }
 
 .subscribe form input[type="submit"] {
@@ -420,7 +420,7 @@ header.fixed-top {
   right: 4.5px;
   padding: 8px 24px;
   border-radius: 14px;
-  background-color: #f55f1d;
+  background-color: black;
   border: none;
   outline: 0;
   color: white;
@@ -445,7 +445,7 @@ div#subscribe-response-message {
 
 .site-footer {
   padding: 75px 0 30px;
-  background-color: #00ca72;
+  background-color: #dde1dd;
 }
 
 .site-footer h2 {
@@ -469,7 +469,7 @@ div#subscribe-response-message {
   height: 41px;
   width: 41px;
   border-radius: 41px;
-  background-color: #20b15a;
+  background-color: black;
   color: white;
   font-size: 17px;
   display: inline-flex;
