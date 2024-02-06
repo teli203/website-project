@@ -55,7 +55,7 @@ li:last-child .dropdown-item {
 }
 
 .navbar-brand span {
-  color: #f55f1d;
+  color: #059c30;
 }
 
 .dropdown-toggle::after {
@@ -79,7 +79,7 @@ header .navbar-expand-lg .navbar-nav {
 }
 
 .btn-outline-success {
-  border-color: #20b15a;
+  border-color: black;
 }
 
 .btn-outline-success:hover {
@@ -87,8 +87,8 @@ header .navbar-expand-lg .navbar-nav {
 }
 
 .btn-success {
-  border-color: #20b15a;
-  background-color: #20b15a;
+  border-color: black;
+  background-color: black;
 }
 
 header.fixed-top {
@@ -188,7 +188,7 @@ header.fixed-top {
 
 .what-we-do .boxes-wrapper:hover a {
   color: white;
-  background-color: #f55f1d;
+  background-color: #20b15a;
 }
 
 .what-we-do .boxes-wrapper a img {
@@ -263,8 +263,10 @@ header.fixed-top {
 }
 
 .portfolio .portfolio-wrapper img {
-  margin-bottom: 42px;
+  margin-top: 30px;
+  margin-bottom: 40px;
   width: 100%;
+  border: 3px solid black;
 }
 
 .portfolio .portfolio-wrapper h4 {
@@ -295,6 +297,7 @@ header.fixed-top {
   box-shadow: 0 4px 4px 0 #00000040;
   background-color: #dde1dd;
   margin: 0 23.5px;
+  border: 2px solid black;
 }
 
 .testimonials-slider .item p {
@@ -395,7 +398,7 @@ header.fixed-top {
   font-size: 15px;
   font-weight: 500;
   line-height: 22px;
-  color: #8b8b8b;
+  color: #4e4c4c;
   margin-bottom: 40px;
 }
 
@@ -437,7 +440,7 @@ div#subscribe-response-message {
   font-size: 15px;
   font-weight: 500;
   line-height: 22px;
-  color: #8b8b8b;
+  color: #059c30;
 }
 
 /* Newsletter End */
@@ -557,6 +560,7 @@ div#subscribe-response-message {
 
   .testimonials-slider .item {
     padding: 30px;
+    border: 2px solid black;
   }
 }
 
