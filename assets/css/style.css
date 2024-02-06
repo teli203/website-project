@@ -92,6 +92,7 @@ header .navbar-expand-lg .navbar-nav {
 }
 
 header.fixed-top {
+  border: 1.5px solid black;
   background-color: #dde1dd;
 }
 /* Header CSS End */
@@ -266,7 +267,7 @@ header.fixed-top {
   margin-top: 30px;
   margin-bottom: 40px;
   width: 100%;
-  border: 3px solid black;
+  border: 1.5px solid black;
 }
 
 .portfolio .portfolio-wrapper h4 {
@@ -449,6 +450,7 @@ div#subscribe-response-message {
 .site-footer {
   padding: 75px 0 30px;
   background-color: #dde1dd;
+  border: 1.5px solid black;
 }
 
 .site-footer h2 {
