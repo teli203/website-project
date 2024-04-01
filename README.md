@@ -1,5 +1,7 @@
 <img width="1440" alt="Screenshot 2024-02-05 at 10 52 29 PM" src="https://github.com/teli203/website-project/assets/68035449/a86db380-6199-461b-87e9-cc9e62985cbe">
 
+<a href="https://telicias-web-designagency.netlify.app">Check out the site</a>
+
 # ✨ About this Website ✨
 This is a dynamic and responsive business website crafted in collaboration with a simulated web design business, showcasing its diverse capabilities. Featuring a user-friendly navigation bar for seamless exploration, it offers convenient access to various pages, including a detailed Services section highlighting three key action points. Users can easily engage through the login and registration options tailored for both existing and prospective customers.
 
